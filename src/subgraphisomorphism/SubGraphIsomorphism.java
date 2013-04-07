@@ -14,6 +14,11 @@ public class SubGraphIsomorphism {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        dupasd
+                dsad
+                asd
+                        saf
+                        sa
+                                fsaafs
     }
 }
